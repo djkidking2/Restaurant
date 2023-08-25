@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Restaurant/static/css/main.320f033e.css",
+    "main.js": "/Restaurant/static/js/main.19c17da6.js",
+    "static/media/meal.mp4": "/Restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/Restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/Restaurant/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/Restaurant/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/Restaurant/static/media/laurels.c543a394be64ecb110a0.png",
+    "static/media/chefw.png": "/Restaurant/static/media/chefw.b6f5c316567519d1a294.png",
+    "static/media/menu.png": "/Restaurant/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/Restaurant/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/Restaurant/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/Restaurant/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/Restaurant/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/Restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/Restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/LJ.png": "/Restaurant/static/media/LJ.d052d91889c36ad2cf7b.png",
+    "static/media/sign.png": "/Restaurant/static/media/sign.265aec9823708eac72e7.png",
+    "static/media/logo.png": "/Restaurant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Restaurant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Restaurant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Restaurant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/Restaurant/index.html",
+    "static/media/spoon.svg": "/Restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.320f033e.css.map": "/Restaurant/static/css/main.320f033e.css.map",
+    "main.19c17da6.js.map": "/Restaurant/static/js/main.19c17da6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.320f033e.css",
+    "static/js/main.19c17da6.js"
+  ]
+}
